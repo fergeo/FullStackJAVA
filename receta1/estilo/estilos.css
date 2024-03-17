@@ -1,5 +1,5 @@
 html{
-    background-color: aqua;
+    background: #e3e3e3; 
 }
 
 body{
@@ -16,12 +16,12 @@ header{
     width: 600px;
 }
 
+#imagenes{
+    display: flex;
+}
+
 .pasos{
     height: 80px;
     width: 80px;
 }
 
-.texto{
-    display: inline-block;
-    vertical-align: top;
-  }
