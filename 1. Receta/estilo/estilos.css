@@ -1,0 +1,27 @@
+html{
+    background-color: aqua;
+}
+
+body{
+    padding-top: 50px;
+    padding-left: 60px;
+}
+
+header{
+    text-align: center;
+}
+
+#pizza{
+    height: 400px;
+    width: 600px;
+}
+
+.pasos{
+    height: 80px;
+    width: 80px;
+}
+
+.texto{
+    display: inline-block;
+    vertical-align: top;
+  }
