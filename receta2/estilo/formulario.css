@@ -1,0 +1,23 @@
+html{
+    background: #e3e3e3; 
+}
+
+form{
+    padding: 100px;
+}
+
+#nombre{
+    margin-left: 80px;
+}
+
+#apellido{
+    margin-left: 77px;
+}
+
+#email{
+    margin-left: 10px;
+}
+
+#inicio{
+    margin-left: 85px;
+}
