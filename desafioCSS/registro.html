@@ -17,10 +17,16 @@
                 <input type="text" id="apellido" class="formato" placeholder="Apellido"><br><br>
                 <input type="text" id="email" class="formato" placeholder="Email"><br><br>
                 <input type="text" id="constrasenia" class="formato" placeholder="Constraseña"><br><br>
-                <input type="text" id="fNacimiento" class="formato" placeholder="Fecha de Nacimiento"><br><br>
-                <input type="select" id="pais" class="formato"><br><br>
-                <input type="check" id="condiciones"><br><br>
-                <input type="button" value="Reistrarse" id="registrar" class="formato">
+                <input type="date" id="fNacimiento" class="formato" placeholder="Fecha de Nacimiento" name="bday" /><br><br>
+                <select name="pais" id="pais" class="formato"><br><br>
+                    <option value="pais">Pais</option>
+                    <option value="argentina">Argentina</option>
+                    <option value="brasil">Brasil</option>
+                    <option value="usa">U.S.A</option>
+                </select><br><br>
+                <input type="checkbox" id="condiciones" name="condiciones">
+                <label for="condiiones">Acepto términos y condiciones.</label><br><br>
+                <input type="button" value="Registrarse" id="registrar" class="formato">
             </form>
         </div>
     </main>
