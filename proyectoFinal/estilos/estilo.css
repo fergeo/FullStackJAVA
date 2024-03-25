@@ -1,0 +1,40 @@
+header{
+    padding: 0;
+    background-image: url("../img/banner-bg.jpg");
+    height: 1000px;
+}
+
+#cabecera{
+    padding-top: 20px;
+    margin-left: 50px;
+    width: 90%;
+}
+
+.logo
+{
+    padding: 20px 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+
+.letras{
+    font-size: 50px;
+}
+
+
+
+#titulos{
+    padding-top: 80px;
+    text-align: center;
+}
+
+#titPrinc{
+    font-size: 150px;
+    font-weight: bold;
+    width: 60%;
+}
+
+#descrip{
+    font-size: 60px;
+}
